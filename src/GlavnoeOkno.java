@@ -51,6 +51,9 @@ public class GlavnoeOkno extends JDialog {
             writer.flush();
         } catch (IOException e) {
             e.printStackTrace();
+
+
+            //ghjguhg
         }
     }
 
